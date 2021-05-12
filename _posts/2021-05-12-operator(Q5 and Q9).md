@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7차시 문제풀이" 
+title: "8차시 문제풀이" 
 ---
 
 [문제 상황]
